@@ -152,7 +152,6 @@ namespace OnTapKT
             this.Controls.Add(this.labTen);
             this.Controls.Add(this.labLogo1);
             this.Name = "Form1";
-            this.Text = "User:";
             this.ResumeLayout(false);
             this.PerformLayout();
 

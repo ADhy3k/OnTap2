@@ -19,7 +19,12 @@ namespace OnTapKT
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-
+            DialogResult r;
+            r = MessageBox.Show("Bạn có muốn thoát?", "Thoát",
+                        MessageBoxButtons.YesNo, MessageBoxIcon.Question,
+                                    MessageBoxDefaultButton.Button1);
+            //if (r == DialogResult.No)
+            //     = true;
         }
     }
 }

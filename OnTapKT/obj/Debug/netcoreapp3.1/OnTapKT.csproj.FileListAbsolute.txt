@@ -1,0 +1,15 @@
+D:\CN.NET\OnTap2\OnTapKT\bin\Debug\netcoreapp3.1\OnTapKT.exe
+D:\CN.NET\OnTap2\OnTapKT\bin\Debug\netcoreapp3.1\OnTapKT.deps.json
+D:\CN.NET\OnTap2\OnTapKT\bin\Debug\netcoreapp3.1\OnTapKT.runtimeconfig.json
+D:\CN.NET\OnTap2\OnTapKT\bin\Debug\netcoreapp3.1\OnTapKT.runtimeconfig.dev.json
+D:\CN.NET\OnTap2\OnTapKT\bin\Debug\netcoreapp3.1\OnTapKT.dll
+D:\CN.NET\OnTap2\OnTapKT\bin\Debug\netcoreapp3.1\OnTapKT.pdb
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.Form1.resources
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.csproj.GenerateResource.cache
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.AssemblyInfoInputs.cache
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.AssemblyInfo.cs
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.csproj.CoreCompileInputs.cache
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.dll
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.pdb
+D:\CN.NET\OnTap2\OnTapKT\obj\Debug\netcoreapp3.1\OnTapKT.genruntimeconfig.cache
